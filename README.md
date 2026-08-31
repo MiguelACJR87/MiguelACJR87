@@ -18,19 +18,13 @@
 
 ## Sobre
 
-Vim de 15 anos em operações e gestão de equipes, convivendo diariamente com o
-custo de tarefas manuais: planilhas que ninguém conseguia manter, coleta de dados
-feita à mão, processos que dependiam de memória. Comecei a programar para resolver
-esses problemas — primeiro os meus, depois os da equipe.
+Iniciei minha jornada em tecnologia e venho aprendendo desenvolvimento principalmente na prática, transformando problemas que encontro no dia a dia em pequenos projetos, automações e ferramentas.
 
-Os projetos aqui nasceram assim. Alguns rodam em produção com usuários reais;
-outros são experimentos para testar uma ideia ou aprender uma ferramenta. Nenhum
-é exercício de tutorial.
+Minha experiência anterior em operações e gestão me fez perceber, na prática, como tarefas manuais, planilhas, coleta de dados e processos repetitivos podem consumir tempo e gerar retrabalho. Foi daí que surgiu meu interesse por usar programação para criar soluções simples e funcionais para problemas reais.
 
-Estou em transição para desenvolvimento, com foco em automação, RPA e análise de
-dados, e cursando Análise e Desenvolvimento de Sistemas. O que trago
-junto é leitura de processo: saber onde o trabalho de fato trava antes de escrever
-a primeira linha de código.
+Aqui compartilho projetos que desenvolvo enquanto estudo e pratico. Não são apenas exercícios de curso ou tutoriais: muitos surgiram de necessidades reais que encontrei no trabalho ou no dia a dia, servindo como forma de aprender, testar ideias e evoluir minhas habilidades.
+
+Ainda estou no começo dessa jornada, explorando tecnologias, construindo projetos e aprendendo com cada tentativa. Este GitHub é, acima de tudo, um registro dessa evolução.
 
 <br>
 
