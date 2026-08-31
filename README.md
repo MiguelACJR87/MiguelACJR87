@@ -30,7 +30,7 @@ Ainda estou no começo dessa jornada, explorando tecnologias, construindo projet
 
 ## Stack
 
-`Python` · `JavaScript` · `HTML` · `CSS` · `Google Apps Script` · `Selenium` · `Pandas` · `Git`
+<img src="assets/stack.svg" alt="Python, JavaScript, Google Apps Script, Selenium, pandas, HTML5, CSS, Git" width="620">
 
 <br>
 
