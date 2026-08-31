@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-stacks.svg" alt="Miguel Carvalho — Automação de processos e sistemas internos" width="100%">
+  <img src="assets/banner.svg" alt="Miguel Carvalho — Automação de processos e sistemas internos" width="100%">
 </p>
 
 <p align="center">
