@@ -28,7 +28,7 @@ outros são experimentos para testar uma ideia ou aprender uma ferramenta. Nenhu
 é exercício de tutorial.
 
 Estou em transição para desenvolvimento, com foco em automação, RPA e análise de
-dados, e cursando Análise e Desenvolvimento de Sistemas na Estácio. O que trago
+dados, e cursando Análise e Desenvolvimento de Sistemas. O que trago
 junto é leitura de processo: saber onde o trabalho de fato trava antes de escrever
 a primeira linha de código.
 
