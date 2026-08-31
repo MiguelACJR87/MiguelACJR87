@@ -29,7 +29,6 @@ Ainda estou no começo dessa jornada, explorando tecnologias, construindo projet
 <br>
 
 ## Stack
-
 <img src="assets/stack.svg" alt="Python, JavaScript, Google Apps Script, Selenium, pandas, HTML5, CSS, Git" width="100%">
 
 <br>
