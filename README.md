@@ -18,11 +18,13 @@
 
 ## Sobre
 
-Construo automações e ferramentas que resolvem problemas operacionais concretos: coleta de dados que alguém fazia à mão, relatórios montados em planilha, processos que dependiam de memória e retrabalho.
+Iniciei minha jornada em tecnologia e venho aprendendo desenvolvimento principalmente na prática, transformando problemas que encontro no dia a dia em pequenos projetos, automações e ferramentas.
 
-Os projetos aqui vão de aplicações web com suporte offline para uso em campo a automações de coleta em portais e ferramentas desktop. Todos nasceram de um problema real que eu precisei resolver — nenhum é exercício de curso — e vários rodam em produção com usuários reais.
+Minha experiência anterior em operações e gestão me fez perceber, na prática, como tarefas manuais, planilhas, coleta de dados e processos repetitivos podem consumir tempo e gerar retrabalho. Foi daí que surgiu meu interesse por usar programação para criar soluções simples e funcionais para problemas reais.
 
-Cursando **Análise e Desenvolvimento de Sistemas** na Estácio, com 15 anos de experiência anterior em operações e gestão de equipes. É de onde vem minha noção do que de fato trava um processo antes de escrever a primeira linha de código.
+Aqui compartilho projetos que desenvolvo enquanto estudo e pratico. Não são apenas exercícios de curso ou tutoriais: muitos surgiram de necessidades reais que encontrei no trabalho ou no dia a dia, servindo como forma de aprender, testar ideias e evoluir minhas habilidades.
+
+Ainda estou no começo dessa jornada, explorando tecnologias, construindo projetos e aprendendo com cada tentativa. Este GitHub é, acima de tudo, um registro dessa evolução.
 
 <br>
 
