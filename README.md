@@ -24,9 +24,11 @@
 
 ## Sobre
 
-Trabalho na área de coordenação operacional na **Techmetria**, empresa de medição individualizada de consumo para condomínios, onde desenvolvo as automações e os sistemas internos que sustentam a operação — do aplicativo de campo usado pelos leituristas aos relatórios entregues aos clientes.
+Construo automações e ferramentas que resolvem problemas operacionais concretos: coleta de dados que alguém fazia à mão, relatórios montados em planilha, processos que dependiam de memória e retrabalho.
 
-Trago 15 anos de experiência em operações, atendimento e gestão de equipes para a área técnica. Isso significa que os sistemas que construo nascem de problemas reais que eu mesmo enfrentei: processos manuais, retrabalho, planilhas que ninguém conseguia manter. Cursando **Análise e Desenvolvimento de Sistemas** na Estácio.
+Os projetos aqui vão de aplicações web com suporte offline para uso em campo a automações de coleta em portais e ferramentas desktop. Todos nasceram de um problema real que eu precisei resolver — nenhum é exercício de curso — e vários rodam em produção com usuários reais.
+
+Cursando **Análise e Desenvolvimento de Sistemas** na Estácio, com 15 anos de experiência anterior em operações e gestão de equipes. É de onde vem minha noção do que de fato trava um processo antes de escrever a primeira linha de código.
 
 <br>
 
