@@ -18,11 +18,13 @@
 
 ## Sobre
 
-Construo automações e ferramentas que resolvem problemas operacionais concretos: coleta de dados que alguém fazia à mão, relatórios montados em planilha, processos que dependiam de memória e retrabalho.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e estou construindo minha trajetória em tecnologia na prática, desenvolvendo pequenas aplicações, automações e ferramentas para resolver problemas que encontro no dia a dia.
 
-Os projetos aqui vão de aplicações web com suporte offline para uso em campo a automações de coleta em portais e ferramentas desktop. Todos nasceram de um problema real que eu precisei resolver — nenhum é exercício de curso — e vários rodam em produção com usuários reais.
+Minha experiência anterior é de 15 anos em operações e gestão de equipes, e foi justamente nesse contexto que comecei a me interessar por tecnologia: percebi quantas tarefas poderiam ser simplificadas com código — desde coleta de dados e geração de relatórios até processos repetitivos que dependiam de planilhas, memória e trabalho manual.
 
-Cursando **Análise e Desenvolvimento de Sistemas** na Estácio, com 15 anos de experiência anterior em operações e gestão de equipes. É de onde vem minha noção do que de fato trava um processo antes de escrever a primeira linha de código.
+Aqui no GitHub registro parte desse aprendizado. São projetos desenvolvidos enquanto estudo e pratico, muitos deles inspirados em necessidades reais, e não apenas em exercícios ou tutoriais. Alguns inclusive foram utilizados na prática.
+
+Ainda estou no começo da jornada como desenvolvedor, aprendendo, testando, errando e melhorando a cada projeto. Meu objetivo é evoluir tecnicamente sem perder aquilo que trouxe da experiência em operações: entender o problema antes de pensar na solução.
 
 <br>
 
